@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data
 - 🌱 I’m currently upskills myself in the field of DaTa Engineering
 - 💞️ I’m looking to collaborate on open mind and ideas sharing people
-- 📫 How to reach me vijaykiran20175@gmail.com
+- 📫 How to reach me mumukshu_19@proton.me
 
 <!---
 iam-vijay-kiran/iam-vijay-kiran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
