@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iam-vijay-kiran
 - 👀 I’m interested in Data
-- 🌱 I’m currently upskills myself in the field of DaTa Engineering
+- 🌱 I’m currently upskills myself in the field of Data Engineering
 - 💞️ I’m looking to collaborate on open mind and ideas sharing people
 - 📫 How to reach me mumukshu_19@proton.me
 
